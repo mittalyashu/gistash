@@ -10,6 +10,15 @@
 </p>
 
 <p align="center">
+	<a href="https://npmcharts.com/compare/gistash?minimal=true">
+		<img src="https://img.shields.io/npm/dm/gistash.svg?sanitize=true" alt="Downloads" />
+	</a>
+  <a href="https://www.npmjs.com/package/gistash">
+		<img src="https://img.shields.io/npm/v/gistash.svg?sanitize=true" alt="Version" />
+	</a>
+  <a href="https://www.npmjs.com/package/gistash">
+		<img src="https://img.shields.io/npm/l/gistash.svg?sanitize=true" alt="License" />
+	</a>
 	<img src="https://badgen.net/badge/node/%3E=10/green" alt="Minimum Node.js version" />
 	<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
 	<a href="https://twitter.com/intent/follow?screen_name=mittalyashu77">
