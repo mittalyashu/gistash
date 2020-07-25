@@ -1,0 +1,42 @@
+{
+  "name": "gistash",
+  "version": "0.1.0",
+  "description": "Upload your local changes or stashed files to GitHub Gist.",
+  "main": "cli.js",
+  "repository": "git@github.com:mittalyashu/gistash.git",
+  "author": {
+    "name": "Yashu Mittal",
+    "email": "mittalyashu77@gmail.com",
+    "url": "https://codecarrot.net/"
+  },
+  "bin": {
+    "gistash": "cli.js"
+  },
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "stash",
+    "github gist",
+    "gist",
+    "upload gist",
+    "save gist",
+    "cli",
+    "cli-app"
+  ],
+  "dependencies": {
+    "@octokit/rest": "^18.0.3",
+    "better-opn": "^2.0.0",
+    "chalk": "^4.1.0",
+    "clipboardy": "^2.3.0",
+    "inquirer": "^7.3.3",
+    "listr": "^0.14.3",
+    "meow": "^7.0.1",
+    "os": "^0.1.1",
+    "rxjs": "^6.6.0"
+  }
+}
