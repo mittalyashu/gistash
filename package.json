@@ -34,7 +34,7 @@
     "better-opn": "^2.0.0",
     "chalk": "^4.1.0",
     "clipboardy": "^2.3.0",
-    "inquirer": "^7.3.3",
+    "inquirer": "^8.2.1",
     "listr": "^0.14.3",
     "meow": "^7.0.1",
     "os": "^0.1.1",
