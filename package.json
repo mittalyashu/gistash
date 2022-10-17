@@ -30,7 +30,7 @@
     "cli-app"
   ],
   "dependencies": {
-    "@octokit/rest": "^18.0.3",
+    "@octokit/rest": "^19.0.5",
     "better-opn": "^2.0.0",
     "chalk": "^4.1.0",
     "clipboardy": "^2.3.0",
